@@ -1,6 +1,6 @@
 cask "auralis" do
-  version "1.0.0"
-  sha256 "e6612563dbbbd6d60b6f8d77b24ef1a93171b88809fb9458f287a888e4372430"
+  version "1.0.1"
+  sha256 "2a0f191e9fe9ae307d1e33659c3ef05f7913a06406cdfdd4acf9f137e86348d2"
 
   url "https://github.com/Shreyanshh071/Auralis/releases/download/v#{version}-macos/Auralis-#{version}.dmg"
   name "Auralis"
